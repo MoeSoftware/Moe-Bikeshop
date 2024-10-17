@@ -1,5 +1,5 @@
 # Moe-Bikeshop
-Buy Bikes!
+A simple bikeshop script for FiveM built with Lua
 
 ## Easy Config
 
